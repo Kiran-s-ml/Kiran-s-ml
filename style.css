@@ -460,3 +460,113 @@ nav {
     display: none;
 }
 
+/* =================================
+   PREMIUM LIGHT THEME
+================================= */
+
+body {
+    background: #f5f7fb !important;
+    color: #172b4d !important;
+}
+
+header {
+    background: #ffffff !important;
+    border-bottom: 1px solid #e2e8f0;
+    box-shadow: 0 2px 12px rgba(15, 23, 42, 0.04);
+}
+
+.logo {
+    color: #0f766e !important;
+}
+
+.nav-links a {
+    color: #334155 !important;
+}
+
+.nav-links a:hover {
+    color: #0f766e !important;
+}
+
+/* Hero section */
+#home {
+    background: linear-gradient(
+        135deg,
+        #f5f7fb,
+        #e8f5f3
+    ) !important;
+}
+
+#home h1 {
+    color: #172b4d !important;
+}
+
+#home h2 {
+    color: #0f766e !important;
+}
+
+#home p {
+    color: #475569 !important;
+}
+
+/* Section headings */
+.section-heading {
+    color: #172b4d !important;
+}
+
+.section-label {
+    color: #0f766e !important;
+}
+
+/* Cards */
+.info-card,
+.project-card,
+.experience-card,
+.certification-card {
+    background: #ffffff !important;
+    color: #334155 !important;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
+    box-shadow: 0 5px 20px rgba(15, 23, 42, 0.05);
+}
+
+.project-card h3,
+.experience-card h3,
+.info-card h3 {
+    color: #172b4d !important;
+}
+
+.project-card p,
+.experience-card p,
+.info-card p {
+    color: #475569 !important;
+}
+
+/* Buttons */
+.btn {
+    background: #0f766e !important;
+    color: #ffffff !important;
+    border: 1px solid #0f766e;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background: #115e59 !important;
+}
+
+/* Contact links */
+.contact-link {
+    color: #0f766e !important;
+    border-color: #0f766e !important;
+}
+
+.contact-link:hover {
+    background: #0f766e !important;
+    color: #ffffff !important;
+}
+
+/* Footer */
+.footer {
+    background: #e9eef5 !important;
+    color: #475569 !important;
+}
+
