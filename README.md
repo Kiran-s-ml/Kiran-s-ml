@@ -28,6 +28,6 @@ PSPH, MAHE, Manipal | February 2026 – Present
 Excel Skills for Business – Essentials, Intermediate I & II (Coursera)
 
 ### Connect With Me
-- **Email:** [kiran94743@gmail.com](mailto:kiran94743@gmail.com)
+- - **Email:** [Send me an email](mailto:kiran94743@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kiran-s-38b6172a8/)
 - **GitHub:** [Kiran-s-ml](https://github.com/Kiran-s-ml)
